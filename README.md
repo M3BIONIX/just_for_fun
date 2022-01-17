@@ -1,6 +1,7 @@
 https://user-images.githubusercontent.com/76899211/149826549-4e27b3a4-cda5-46e5-bc47-9d9fd94940fa.mp4
 
 ![Rainbow](https://user-images.githubusercontent.com/76899211/149833264-5940288c-b7d0-4f98-85a7-b78722e71c19.gif)
+<img src="Rainbow.gif" width="100%">
 
 # Hi, I'm Sanjay a.k.a M3BIONIX
 
@@ -44,3 +45,4 @@ Hi, I'm Sanjay - a first year Computer Science student studying at College of En
 </div>
 
 ![Rainbow](https://user-images.githubusercontent.com/76899211/149833264-5940288c-b7d0-4f98-85a7-b78722e71c19.gif)
+<img src="Rainbow.gif" width="100%">
