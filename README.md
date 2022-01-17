@@ -1,5 +1,6 @@
 https://user-images.githubusercontent.com/76899211/149826549-4e27b3a4-cda5-46e5-bc47-9d9fd94940fa.mp4
 
+![Rainbow](https://user-images.githubusercontent.com/76899211/149833264-5940288c-b7d0-4f98-85a7-b78722e71c19.gif)
 
 # Hi, I'm Sanjay a.k.a M3BIONIX
 
@@ -41,3 +42,4 @@ Hi, I'm Sanjay - a first year Computer Science student studying at College of En
 <div>
   <img src="Gradients.png" alt="Gradients" width="100%">
 </div>
+![Rainbow](https://user-images.githubusercontent.com/76899211/149833293-dae08ceb-ed9b-4b32-b03c-9ac45ebe97d7.gif)
