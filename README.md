@@ -19,7 +19,8 @@ Hi, I'm Sanjay - a first year Computer Science student studying at College of En
 * 🎮 Unreal Engine
 
 <h3>🎶 Vibing to</h3>
-[![Spotify](https://novatorem-phi-livid.vercel.app/api/spotify)](https://open.spotify.com/user/cmlmip62j0ll3blad4ub0g937)
+![Preview](https://novatorem-phi-livid.vercel.app/api?theme=dark)
+
 
 
 [![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3BIONIX)](https://github.com/m3bionix)
