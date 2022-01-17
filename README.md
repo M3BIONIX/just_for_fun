@@ -12,7 +12,7 @@ Hi, I'm Sanjay - a first year Computer Science student studying at College of En
 
 * 🌱 Developing using **C, Java & Python**
 * 💼 I'm currently learning **C++, C, Python,Java & Machine Learning Algorithmss**
-* I love listening to music as well as composing it.
+* 🎵 I love listening to music as well as composing it.
 
 ## Tech Stack
 
