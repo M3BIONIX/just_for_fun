@@ -1,7 +1,7 @@
 
 
-https://user-images.githubusercontent.com/76899211/149826258-7879afdb-f770-449f-b4a3-749a66424a88.mp4
 
+https://user-images.githubusercontent.com/76899211/149826549-4e27b3a4-cda5-46e5-bc47-9d9fd94940fa.mp4
 
 
 # Hi, I'm Sanjay a.k.a M3BIONIX
@@ -21,9 +21,10 @@ Hi, I'm Sanjay - a first year Computer Science student studying at College of En
 * ☁ AWS | GCP
 * 🎮 Unreal Engine
 
-[![Shaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3BIONIX)](https://github.com/m3bionix)
+[![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3BIONIX)](https://github.com/m3bionix)
 
 <p align=center>
-<b>Happiness can be found in the darkest of times when only one remebers to turn on the light</b> <br>
+<b> " Happiness can be found in the darkest of times when only one remembers to turn on the light "</b> <br>
+<b> "                                                                             -Albus Dumbledore"</b><br>
  <a href="https://www.linkedin.com/in/sanjay-mathew34">LinkedIn</a> · <a href="mailto:sanjay.mathewofficial2020@gmail.com">Email</a> 
 </p>
