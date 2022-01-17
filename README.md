@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/M3BIONIX/just_for_fun/blob/68cf182978947b3a952189485b862a054a2e8174/intro.mp4
+https://user-images.githubusercontent.com/blob/68cf182978947b3a952189485b862a054a2e8174/intro.mp4
 
 # Hi, I'm Sanjay a.k.a M3BIONIX
 
