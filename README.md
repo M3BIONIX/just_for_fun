@@ -25,6 +25,6 @@ Hi, I'm Sanjay - a first year Computer Science student studying at College of En
 
 <p align=center>
 <b> " Happiness can be found in the darkest of times when only one remembers to turn on the light "</b> <br>
-<b> "                                                                             -Albus Dumbledore"</b><br>
+<b>                                                                              -Albus Dumbledore</b><br>
  <a href="https://www.linkedin.com/in/sanjay-mathew34">LinkedIn</a> · <a href="mailto:sanjay.mathewofficial2020@gmail.com">Email</a> 
 </p>
