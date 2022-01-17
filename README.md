@@ -38,3 +38,6 @@ Hi, I'm Sanjay - a first year Computer Science student studying at College of En
 </p>
 
 
+<div>
+  <img src="Gradients.png" alt="Gradients" width="100%">
+</div>
